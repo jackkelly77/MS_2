@@ -1,0 +1,39 @@
+---
+title: "ms_2"
+author: "Jack Kelly"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+**Assignment:**
+
+Discuss pros and cons two of projects from past years. 
+
+At least one project should be one which did extensive data gathering/cleaning. 
+
+You should not select the same projects for commentary as your friends have.  
+
+Students generally write about a paragraph for each project. 
+
+
+**Project 1 Analysis:**
+
+Pros:
+
+
+Cons:
+
+
+**Project 2 Analysis:**
+
+Pros:
+
+
+Cons:
+
+
+
+
